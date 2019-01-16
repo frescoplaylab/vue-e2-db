@@ -8,10 +8,6 @@
       "categories": [
         "Culture",
         "Tech",
-        "Self",
-        "Politics",
-        "Design",
-        "Health"
       ],
       "comments": [{
           "name": "4 3hj",
@@ -35,9 +31,6 @@
       "name": "93xD1",
       "url": "https://docs-cdn.fresco.me/system/attachments/files/003/871/996/large/133c4b721da6ddf01e165ad24f1da208092a0fca/kubernete_icon.jpeg",
       "categories": [
-        "Culture",
-        "Tech",
-        "Self",
         "Politics",
         "Design",
         "Health"
@@ -65,11 +58,7 @@
       "url": "https://docs-cdn.fresco.me/system/attachments/files/003/871/390/large/ba6f2b44098c0b96f4c5b6ae6bd3d2e22431e77b/kubernet_cluster.jpeg",
       "categories": [
         "Culture",
-        "Tech",
-        "Self",
         "Politics",
-        "Design",
-        "Health"
       ],
       "comments": [{
           "name": " SKzP",
@@ -93,11 +82,6 @@
       "name": "O0195",
       "url": "http://asdasd.com",
       "categories": [
-        "Culture",
-        "Tech",
-        "Self",
-        "Politics",
-        "Design",
         "Health"
       ],
       "comments": [{
@@ -122,12 +106,7 @@
       "name": "sAQ  ",
       "url": "http://asdasd.com",
       "categories": [
-        "Culture",
-        "Tech",
-        "Self",
-        "Politics",
-        "Design",
-        "Health"
+        "Design"
       ],
       "comments": [{
           "name": "mLH6s",
@@ -151,11 +130,7 @@
       "name": "ASO3x",
       "url": "http://asdasd.com",
       "categories": [
-        "Culture",
-        "Tech",
         "Self",
-        "Politics",
-        "Design",
         "Health"
       ],
       "comments": [{
@@ -180,12 +155,7 @@
       "name": " rxnR",
       "url": "http://asdasd.com",
       "categories": [
-        "Culture",
-        "Tech",
-        "Self",
-        "Politics",
-        "Design",
-        "Health"
+        "Culture"
       ],
       "comments": [{
           "name": "M6 ni",
@@ -210,11 +180,7 @@
       "url": "http://asdasd.com",
       "categories": [
         "Culture",
-        "Tech",
-        "Self",
-        "Politics",
-        "Design",
-        "Health"
+        "Tech"
       ],
       "comments": [{
           "name": "qPLBx",
@@ -239,10 +205,6 @@
       "url": "http://asdasd.com",
       "categories": [
         "Culture",
-        "Tech",
-        "Self",
-        "Politics",
-        "Design",
         "Health"
       ],
       "comments": [{
@@ -259,35 +221,6 @@
         }
       ],
       "time": "2019-01-11T01:34:59.638Z"
-    },
-    {
-      "id": 15,
-      "title": "CBCIf",
-      "post": "ymd3 zXKKqhttlj  frFq KYoTCs QHMFRAZY913qZR4OvgNHNGyQPodLIo0N1 D3hq6XAH ",
-      "name": "Ovrm ",
-      "url": "http://asdasd.com",
-      "categories": [
-        "Culture",
-        "Tech",
-        "Self",
-        "Politics",
-        "Design",
-        "Health"
-      ],
-      "comments": [{
-          "name": "7CMF ",
-          "comment": "MaSj b7uqJ2O tE",
-          "time": "2019-01-11T03:38:24.449Z",
-          "rating": 5
-        },
-        {
-          "name": "ptv 9",
-          "comment": "2 ilF yyrdJC",
-          "time": "2019-01-11T07:27:08.119Z",
-          "rating": 4
-        }
-      ],
-      "time": "2019-01-11T10:21:17.705Z"
     }
   ]
 }
