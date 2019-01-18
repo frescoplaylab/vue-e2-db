@@ -5,7 +5,7 @@
       "title": "Beautiful Vue",
       "post": "Vue is famous for its intuitive design and shallow learning curve. This means it’s easy to train staff in, even non-frontend devs and designers.Since developers will be up-and-running with Vue quickly, training costs will be kept to a minimum.Vue provides a powerful solution for complex single-page applications but also scales down nicely for smaller projects where only basic page functionality needs to be added.",
       "name": "ardneham",
-      "url": "https://cdn-images-1.medium.com/max/2560/1*QIg6vEjZmT5YMVKU5Rxr2A.png",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/930/large/d43eb8fedc6ea9a5da392a8ad7cbfe176810dbfa/vue.jpeg",
       "categories": [
         "Tech",
         "Design"
@@ -28,10 +28,10 @@
     },
     {
       "id": 2,
-      "title": "Jalebi Foodi's heaven",
+      "title": "Jalebi Foodie's heaven",
       "post": "Jalebi, also known as zulbia and zalabia, is a sweet popular food in some parts of the Indian subcontinent, West Asia, North Africa, and East Africa. It is made by deep-frying maida flour (plain flour or all-purpose flour) batter in pretzel or circular shapes, which are then soaked in sugar syrup.",
       "name": "J Bai",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Awadhi_jalebi.jpg",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/938/large/dc6e406f8e691d1ad83570732d33ae9084ad3b2c/jalebi.jpeg",
       "categories": [
         "Food"
       ],
@@ -56,7 +56,7 @@
       "title": "Selp development",
       "post": "Personal development is a lifelong process. It is a way for people to assess their skills and qualities, consider their aims in life and set goals in order to realise and maximise their potential. This page helps you to identify the skills you need to set life goals which can enhance your employability prospects, raise your confidence, and lead to a more fulfilling, higher quality life. Plan to make relevant, positive and effective life choices and decisions for your future to enable personal empowerment",
       "name": "Cat Dom",
-      "url": "https://www.acfitzgerald.com/wp-content/uploads/2017/10/4-Steps-to-Thrive-Not-Just-Survive.jpg",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/960/large/677a96245dce30d117c94979f4ff9a22d1f6b25d/4_steps.jpeg",
       "categories": [
         "Self"
       ],
@@ -81,7 +81,7 @@
       "title": "Diabetes",
       "post": "Diabetes is a condition that impairs the body's ability to process blood glucose, otherwise known as blood sugar.In the United States, the estimated number of people over 18 years of age with diagnosed and undiagnosed diabetes is 30.2 million. The figure represents between 27.9 and 32.7 percent of the population.Without ongoing, careful management, diabetes can lead to a buildup of sugars in the blood, which can increase the risk of dangerous complications, including stroke and heart disease.",
       "name": "kaboor",
-      "url": "http://www.kconnect.eu/sites/default/files/styles/top_teaser/public/images/health_on_the_net.jpg?itok=xdIRhd4o",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/936/large/b183fb0f49370b2578517831a8aae29a4b13ddb7/health.jpeg",
       "categories": [
         "Health"
       ],
@@ -93,7 +93,7 @@
       "title": "Marvel",
       "post": "Marvel Comics is the brand name and primary imprint of Marvel Worldwide Inc., formerly Marvel Publishing, Inc. and Marvel Comics Group, a publisher of American comic books and related media. In 2009, The Walt Disney Company acquired Marvel Entertainment, Marvel Worldwide's parent company.",
       "name": "Peter",
-      "url": "https://static.posters.cz/image/1300/calendar/marvel-comics-classics-i49493.jpg",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/955/large/6e2a60ba2d002a458c5bce87d04d3ab8c505be5b/Cartoon.jpeg",
       "categories": [
         "Comics"
       ],
@@ -112,7 +112,7 @@
       "title": "Time travel",
       "post": "Time travel is the concept of movement between certain points in time, analogous to movement between different points in space by an object or a person, typically using a hypothetical device known as a time machine. Time travel is a widely-recognized concept in philosophy and fiction.",
       "name": "Okerien",
-      "url": "https://rossonl.files.wordpress.com/2018/10/time-travel1.jpg",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/937/large/a25d2383c4d247a81ecf17029927b3efd0902971/time_travel.jpeg",
       "categories": [
         "Fiction"
       ],
@@ -137,7 +137,7 @@
       "title": "Facebook's Impact ",
       "post": "Facebook is a very popular social networking site with over eight hundred million users. As an avid user of Facebook myself, I find it hard to believe that at one point it didn't exist. In fact, it has become so much a part of people's lives that you can learn their life story just by checking their page. Their friends, likes and dislikes, relationship status, phone number, address, everything. Sounds a little dangerous. There are positive and negative effects that Facebook has on people, and they can be quite significant",
       "name":"Zuken",
-      "url": "http://t1.gstatic.com/images?q=tbn:ANd9GcTLq0LyExnrsdaUgwZqPRNw5aJ9bhleyIZt0mm9fOP_Cic_qyma",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/954/large/b3c2302788ba35bd9d550edbee43520a93cb2d89/facebook.jpeg",
       "categories": [
         "Social Media"
       ],
@@ -162,7 +162,7 @@
       "title": "Vuex Store",
       "post": "Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. It also integrates with Vue's official devtools extension to provide advanced features such as zero-config time-travel debugging and state snapshot export / import.",
       "name": "ramuk",
-      "url": "https://vuex.vuejs.org/flow.png",
+      "url": "https://docs-cdn.fresco.me/system/attachments/files/004/639/931/large/9090d14e42d1f0a41dcbb9c9fc3c61350a290a17/vuex_flow.jpeg",
       "categories": [
         "Tech"
       ],
